@@ -19,6 +19,6 @@ A collection of neural network implementations from scratch using PyTorch.
 ## Image Segmentation 
 
 | Name| Reference|
-|-------|---------------------------------------------------------------------------------------|------|
+|-------|---------------------------------------------------------------------------------------|
 |[UNet](https://github.com/mtran5/PyTorchNeuralNets/blob/main/models/unet.py)|Ronneberger, Olaf, Philipp Fischer, and Thomas Brox. "U-net: Convolutional networks for biomedical image segmentation." International Conference on Medical image computing and computer-assisted intervention. Springer, Cham, 2015.|
 
